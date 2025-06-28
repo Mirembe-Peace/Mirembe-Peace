@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Peace Mercy CS studdent at Uganda Christian University
+## Hi there 👋, my name is Peace Mercy, CS studdent at Uganda Christian University
 
 -  I’m currently working on my personal-profile website using Vue3 + vite (https://github.com/Mirembe-Peace/My-Personal-Portfolio-Website)
   
