@@ -1,8 +1,8 @@
-## Hi there 👋, my name is Peace Mercy, CS studdent at Uganda Christian University
+# Hi there 👋, my name is **Peace Mercy**, CS studdent at Uganda Christian University
 
--  I’m currently working on my personal-profile website using Vue3 + vite (https://github.com/Mirembe-Peace/My-Personal-Portfolio-Website)
+-  I’m currently working on my personal-profile website  (https://apiarie.netlify.app/) !!--under construction--!!
   
-- I’m currently learning Three JS, 3D modelling in blender and vue
+- I’m currently learning **Object Oriented Programming in Java and Data Science in python**
 
 - 📫 How to reach me: peace2de@gmail.com
 
