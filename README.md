@@ -2,7 +2,7 @@
 
 -  I’m currently working on https://github.com/Mirembe-Peace/Work_plan_27-08-2025_to_31-12-2025/blob/main/Work_plan_01.md
   
-- I’m currently learning **Object Oriented Programming in Java and Data Science in python**
+- I’m currently learning **React**
 
 - 📫 How to reach me:(https://apiarie.netlify.app/)
 
